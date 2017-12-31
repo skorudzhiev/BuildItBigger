@@ -1,3 +1,5 @@
+![alt text](https://github.com/skorudzhiev/BuildItBigger/blob/master/screen-shot-2017-10-31-at-3.54.32-pm.png)
+
 ### Components
 
 * Project contains a Java library for supplying jokes
